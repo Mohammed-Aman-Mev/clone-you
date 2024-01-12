@@ -10,3 +10,9 @@
     color: white;
     background-color: black;
 }
+
+.dicen {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
